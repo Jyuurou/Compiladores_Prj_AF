@@ -1,0 +1,13 @@
+3 tasu 3 tasu 4 = x 
+kai 3 {
+	x tasu 2 = x
+	moshi ( x hidariga 10 ) { 
+		x tasu 5 = result
+	}
+}
+moshi ( result migiga x ) {
+	15 = b	
+}
+moshi ( result hidariga x ) {
+	"Vou_voar_o_mundo_la_fora!_" tasu "Uhu!!" = msg 
+}
